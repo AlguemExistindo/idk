@@ -1,0 +1,75 @@
+body {
+    color: white;
+    background: rgb(46, 66, 90);
+    margin: 0px;
+    font-family: "Merienda", cursive;
+    margin-bottom: 100px;
+}
+
+header {
+    border-bottom: solid 10px lightseagreen;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    padding-left: 50px;
+    font-size: 30px;
+    color: palegoldenrod;
+}
+
+.windo {
+    background: midnightblue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.text {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    margin-left: 10%;
+}
+
+p {
+    font-size: 15px;
+}
+
+b {
+    margin-right: 5%;
+    margin-top: 10%;
+}
+
+.nonsense {
+    margin-left: 0%;
+}
+
+.life {
+    background-color: rgb(70, 97, 128);
+    display: flex;
+    gap: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.nonsense img {
+    opacity: 0.85;
+    border: 2px solid whitesmoke;
+    height: 200px;
+}
+
+.life h2 {
+    color: lightgreen;
+}
+
+.nonsense img:hover {
+    opacity: 1;
+}
